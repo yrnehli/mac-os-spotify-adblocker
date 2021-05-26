@@ -1,4 +1,4 @@
-# macOsSpotifyAdblocker
+# mac-os-spotify-adblocker
 
 Restarts Spotify whenever an ad starts playing (which skips the ad)
 
